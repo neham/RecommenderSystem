@@ -1,0 +1,63 @@
+101,alice,Operating system
+101,alice,Network Design
+101,alice,Wireless and Mobile Networks
+101,alice,Algorithms
+102,tom,Operating system
+102,tom,Network Design
+102,tom,Algorithms
+102,tom,Cloud Computing
+103,John,Operating system
+103,John,Cloud Computing
+104,Randy,Advanced Database
+104,Randy,Computer Architecture
+104,Randy,Operating system
+105,Mindy,Cloud Computing
+105,Mindy,Web Search & Information Retrieval
+105,Mindy,Network Design
+105,Mindy,Pattern Recognition
+105,Mindy,Advanced DataBase
+106,Grace,Wireless and Mobile Networks
+106,Grace,Operating system
+107,Catherine,Cloud Computing
+107,Catherine,Web Search & Information Retrieval
+107,Catherine,Operating system
+108,Raymond,Operating system
+108,Raymond,Web Search & Information Retrieval
+109,Eva,Advanced DataBase
+109,Eva,Operating system
+109,Eva,Web Search & Information Retrieval
+110,Percy,Cloud Computing
+110,Percy,Web Search & Information Retrieval
+110,Percy,Pattern Recognition
+110,Percy,Operating system
+111,Angelina,Wireless and Mobile Networks
+111,Angelina,Web Search & Information Retrieval
+112,Brad,Cloud Computing
+112,Brad,Operating system
+112,Brad,Pattern Recognition
+112,Brad,Advanced DataBase
+112,Brad,Web Search & Information Retrieval
+113,Nina,Network Design
+113,Nina,Advanced DataBase
+113,Nina,Web Search & Information Retrieval
+114,Lynette,Network Technology
+114,Lynette,Pattern Recognition
+114,Lynette,Computer Architecture
+114,Lynette,Advanced DataBase
+115,Colen,Wireless and Mobile Networks
+115,Colen,Web Search & Information Retrieval
+116,Pam,Cloud Computing
+116,Pam,Computer Architecture
+117,Andy,Advanced DataBase
+117,Andy,Computer Architecture
+117,Andy,Web Search & Information Retrieval
+118,Ria,Network Technology
+118,Ria,Pattern Recognition
+118,Ria,Cloud Computing
+119,Morty,Web Search & Information Retrieval
+119,Morty,Pattern Recognition
+120,Mike,Advanced DataBase
+120,Mike,Cloud Computing
+120,Mike,Web Search & Information Retrieval
+120,Mike,Network Technology
+120,Mike,Pattern Recognition
